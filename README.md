@@ -2,6 +2,8 @@
 
 Basic Python program to play Rock-Papers-Scissors
 
+Play at https://r-p-s.akylus.repl.run/
+
 ```
 R = Rock
 P = Papers
