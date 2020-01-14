@@ -1,4 +1,4 @@
-# rok-pepa-siza
+# rokk-peypa-cyza
 
 Basic Python program to play Rock-Papers-Scissors
 
